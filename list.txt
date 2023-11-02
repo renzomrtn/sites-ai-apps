@@ -14,20 +14,7 @@
 1. myinstants.com ( )
 2. freesound.org [free]
 
-// FRONT-END
-1. 9elements.github.io (border-radius generator) [free]
-2. getcssscan.com (box-shadows)
-3. cssbuttons.app (buttons)
-4. codepen.io (any templates) [free]
-
-
 // CHEATING
 1. codewithcurious.com > projects (coding projects w/ source code)
-
-// LEARNING IT
-1. playcss.app (daily css exercises)
-2. leetcode.com [freemium]
-3. codewars.com [free]
-4. codingame.com (coding game) [freemium]
 
 // CHROME PLUGINS

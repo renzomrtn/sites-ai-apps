@@ -1,8 +1,3 @@
-// TEMPLATES FOR GRAPHICS
-1. Xcode {app}
-2. Storyset.com (svg) [free]
-3. flaticon.com
-
 // AI APPS (school stuff)
 1. answer ai
 

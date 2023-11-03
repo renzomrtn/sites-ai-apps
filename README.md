@@ -1,2 +1,2 @@
-# Websites-and-AI
-list
+# Sites-AI-APPS
+list of those kind of stuff

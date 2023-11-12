@@ -1,2 +1,33 @@
 1. In Your Face (meme about your code)
+
+# Cool:
+1. **Material Theme** (Gives your VSCode a sleek, material design look)
+2. Bracket Pair Colorizer (Colors your bracket pairs for easy identification and navigation)
+GitLens (Enhances the Git capabilities in VSCode, providing powerful features for version control)
+Code Spell Checker (Helps catch spelling mistakes in your code)
+Live Share (Enables real-time collaborative development sessions)
+Peacock (Allows you to colorize your workspace to make different projects easily distinguishable)
+Polacode (Creates beautiful screenshots of your code with syntax highlighting for sharing)
+City Lights Icon Set (A set of cool icons for your file explorer)
+
+
+// Helpful:
+ESLint: Integrates ESLint for JavaScript and TypeScript linting.
+Prettier: Code formatter to ensure consistent code style.
+Path Intellisense: Autocompletes filenames in your code.
+Auto Rename Tag: Automatically renames paired HTML/XML tags.
+REST Client: Allows you to send HTTP requests and view responses directly in the editor.
+Settings Sync: Synchronizes your settings, themes, and extensions across different machines.
+Rainbow Brackets: Colors nested brackets with different colors for better readability.
+Quokka.js: Live scratchpad for JavaScript and TypeScript
 2. Blackbox ai (coding assistant)
+
+// Funny:
+Cowsay: Displays a cow saying your Git commit messages.
+CodeRunner: Allows you to run code snippets or entire files with a single click.
+CSS Peeper: Inspects styles in your browser and peeps into linked stylesheets.
+Lorem Ipsum: Quickly generates Lorem Ipsum text for your documents.
+Shuffle Text: Mixes up the letters in your selected text for a playful effect.
+Cat Coding: Adds cute cat animations to your VSCode background.
+One Dark Pro Vivid: A colorful variation of the popular One Dark Pro theme.
+Developer Jokes: Injects developer-related jokes into your VSCode.

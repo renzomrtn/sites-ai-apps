@@ -6,6 +6,7 @@
 5. Polacode (Creates beautiful screenshots of your code with syntax highlighting for sharing)
 6. City Lights Icon Set (A set of cool icons for your file explorer)
 
+
 # Helpful:
 1. ESLint (Integrates ESLint for JavaScript and TypeScript linting)
 2. Prettier (Code formatter to ensure consistent code style)
@@ -18,6 +19,7 @@
 9. Blackbox ai (Coding assistant)
 10. Code Spell Checker (Helps catch spelling mistakes in your code)
 11. Live Share (Enables real-time collaborative development sessions)
+
 
 # Funny:
 1. In Your Face (Meme about your code)
